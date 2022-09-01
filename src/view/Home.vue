@@ -204,6 +204,7 @@ export default {
 
 .aside {
     background-color: #1b273f;
+    
 }
 
 .logo {
